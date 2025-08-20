@@ -1,0 +1,1 @@
+Placeholder for mipmap resources. Add ic_launcher images in mipmap-*dpi/ directories if you want.

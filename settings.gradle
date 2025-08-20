@@ -1,0 +1,4 @@
+rootProject.name = 'kencblack'
+include ':app'
+// Después de clonar wireguard-android en el mismo nivel:
+// include ':wireguard-android'
